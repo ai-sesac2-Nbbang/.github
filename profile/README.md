@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ai-sesac2-Nbbang/Logos/d9abcd486839b6fd387761ad171bd28afa77ff8a/모구_텍스트%20로고.png" alt="모구모구 텍스트 로고" width="200"/>
+<img src="https://github.com/ai-sesac2-Nbbang/Logos/blob/main/%EB%AA%A8%EA%B5%AC_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%A1%9C%EA%B3%A0-removebg-ver.png" width="200"/>
 
 # 🌐**서비스 소개**
 
